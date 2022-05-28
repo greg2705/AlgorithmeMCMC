@@ -1,5 +1,7 @@
 # AlgorithmeMCMC
 
+Projet réalisé en 2021.
+
 Projet pour décrypter un texte à l'aide d'un algorithme MCMC.
 
 Ce projet repose sur des statistiques et des probabiltés sur les bigrammes de lettre. En effet en important des livres anglais et français sous format de fichier texte et en comptant les occurences des bigrammes, on peut construire des matrices de transitions qui représente la probabilité d'apparition d'une lettre en fonction d'une autre.
